@@ -1,9 +1,9 @@
 - ## Profil Polaris
-    - [A propos](/docs/polaris/readme)
-    - [Identification](/docs/polaris/id)
-    - [Vocabulaire](/docs/polaris/vocab)
-    - [Statements](/docs/polaris/statements)
+    - [A propos](/profiles/polaris/readme)
+    - [Identification](/profiles/polaris/id)
+    - [Vocabulaire](/profiles/polaris/vocab)
+    - [Statements](/profiles/polaris/statements)
 
 - ## xAPI.fr
-    - [A propos](/docs/xapi/readme)
+    - [A propos](/profiles/xapi/readme)
 
