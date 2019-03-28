@@ -13,7 +13,7 @@ Le profil xAPI Polaris est une initiative de l'Ecole Nationale d'Aviation Civile
 
 Cette spécification est distribuée sous licence Apache, Version 2.0, dont une copie est disponible ici : http://www.apache.org/licenses/LICENSE-2.0.
 
-Copyright 2019 ENAC (http://www.enac.fr), Sébastien Fraysse (http://fraysse.eu).
+Copyright 2019 ENAC (http://www.enac.fr).
 
 
 
