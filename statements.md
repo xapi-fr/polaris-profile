@@ -331,7 +331,7 @@
             "extensions": {
                 "http://vocab.xapi.fr/extensions/remedial": false,
                 "http://vocab.xapi.fr/extensions/assessment": false,
-                "http://vocab.xapi.fr/extensions/duration": "PT1H",
+                "http://id.tincanapi.com/extension/duration": "PT1H",
                 "https://polaris.enac.fr/xapi/vocab/extensions/flight-mcc": true,
                 "https://polaris.enac.fr/xapi/vocab/extensions/flight-type": "ifr",
                 "https://polaris.enac.fr/xapi/vocab/extensions/aircraft-type": "type_tb10",
@@ -475,7 +475,7 @@
             "extensions": {
                 "http://vocab.xapi.fr/extensions/remedial": false,
                 "http://vocab.xapi.fr/extensions/assessment": false,
-                "http://vocab.xapi.fr/extensions/duration": "PT1H",
+                "http://id.tincanapi.com/extension/duration": "PT1H",
                 "https://polaris.enac.fr/xapi/vocab/extensions/flight-mcc": true,
                 "https://polaris.enac.fr/xapi/vocab/extensions/flight-type": "ifr",
                 "https://polaris.enac.fr/xapi/vocab/extensions/aircraft-type": "type_tb10",
