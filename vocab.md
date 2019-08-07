@@ -45,7 +45,7 @@
 - Aircraft Category : `https://polaris.enac.fr/xapi/vocab/extensions/aircraft-category`
 - Aircraft Type : `https://polaris.enac.fr/xapi/vocab/extensions/aircraft-type`
 - Assessment : `http://vocab.xapi.fr/extensions/assessment`
-- Duration : `http://id.tincanapi.com/extension/duration`
+- Duration : `http://vocab.xapi.fr/extensions/duration`
 - Flight Conditions : `https://polaris.enac.fr/xapi/vocab/extensions/flight-conditions`
 - Flight MCC : `https://polaris.enac.fr/xapi/vocab/extensions/flight-mcc`
 - Flight Objective : `https://polaris.enac.fr/xapi/vocab/extensions/flight-objective`
