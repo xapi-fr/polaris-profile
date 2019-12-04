@@ -90,7 +90,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -99,21 +98,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -122,14 +118,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -207,7 +201,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -216,21 +209,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -239,14 +229,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -360,7 +348,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -369,21 +356,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -392,14 +376,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -499,7 +481,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -508,21 +489,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -531,14 +509,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -633,7 +609,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -642,21 +617,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -665,14 +637,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -747,7 +717,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/d539b903-cda9-34a2-8ed3-8307e7245b87",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
@@ -756,21 +725,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/68083774-ef4e-3d53-95cb-6dc7e01a7092",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/9d1e38c9-9bc6-3df9-a059-193737111aa4",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/a7594730-3c60-3168-8df1-97ab586e24c5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -779,14 +745,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -846,7 +810,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-items/b9ebf313-a35e-3fcc-9279-0e9e64b4d6e7",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/skills-test"
@@ -855,28 +818,24 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/506bfb88-ac60-3b8e-b2bb-ba2a094eeda3",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/ee24d8b1-c6f8-3b78-9b78-1a86e832d74f",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/4efc48e2-9392-379d-aa68-5da132a0f81b",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/b89483c5-145c-3b87-a1c5-7075bde6edc5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -885,14 +844,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/inside-learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -958,7 +915,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-items/b9ebf313-a35e-3fcc-9279-0e9e64b4d6e7",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/flight"
@@ -967,28 +923,24 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/506bfb88-ac60-3b8e-b2bb-ba2a094eeda3",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/ee24d8b1-c6f8-3b78-9b78-1a86e832d74f",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/4efc48e2-9392-379d-aa68-5da132a0f81b",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/b89483c5-145c-3b87-a1c5-7075bde6edc5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -997,14 +949,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/inside-learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
@@ -1068,7 +1018,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-items/b9ebf313-a35e-3fcc-9279-0e9e64b4d6e7",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/flight"
@@ -1077,28 +1026,24 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-modules/506bfb88-ac60-3b8e-b2bb-ba2a094eeda3",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-module"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-phases/ee24d8b1-c6f8-3b78-9b78-1a86e832d74f",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-phase"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/training-programs/4efc48e2-9392-379d-aa68-5da132a0f81b",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/training-program"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/activities/registrations/b89483c5-145c-3b87-a1c5-7075bde6edc5",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/registration"
@@ -1107,14 +1052,12 @@
             ],
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://vocab.xapi.fr/categories/inside-learning-unit",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/granularity-level"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "https://polaris.enac.fr/xapi/vocab/categories/profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
