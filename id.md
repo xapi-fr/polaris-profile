@@ -43,11 +43,13 @@ Le nom de l'utilisateur (`name`) est anonymisée : l'identifiant réel est rempl
 
 - Les domaines de compétences sont identifiés selon le schéma `https://polaris.enac.fr/xapi/activities/competency-domains/xxx/yyy`, où `xxx` est le type de référentiel (`general-criteria` ou `behavioural-indicator`) et `yyy` est l'identfiant du domaine de compétence (ex. `tem`).
 
+- Les critères d'évaluation sont identifiés selon le schema `https://polaris.enac.fr/xapi/activities/assessment-items/xxx`, où `xxx` est l'UUID du critère d'évaluation.
+
 
 <a name="profile"></a>
 ## Profil Polaris
 
-Le profil xQuiz est identifié par `https://polaris.enac.fr/xapi/vocab/categories/profile`.
+Le profil Polaris est identifié par `https://polaris.enac.fr/xapi/vocab/categories/profile`.
 
 
 
